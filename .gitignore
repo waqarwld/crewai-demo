@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+
+# Secrets and Credentials (CRITICAL)
+.env
+*.key
+credentials.zip
+
+# Data and Logs
+logs/
+data/
+
+# Operating System files
+.DS_Store
+Thumbs.db
